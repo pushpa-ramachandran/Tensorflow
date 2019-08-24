@@ -1,1 +1,1 @@
-Tensorflow based examples - , neural nets and deep learning
+Tensorflow based examples - Neural nets and Deep learning
