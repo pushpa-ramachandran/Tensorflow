@@ -1,6 +1,15 @@
 For any data that shoud be saved/edited
+<<<<<<< Updated upstream
 Master remote03
 Local
 
 Global
 Master remote03
+
+master stash03 master stash03
+Local
+
+Global
+
+master stash03 master stash03
+
